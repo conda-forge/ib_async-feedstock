@@ -1,5 +1,5 @@
 {% set name = "ib_async" %}
-{% set version = "1.0.2" %}
+{% set version = "1.0.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/ib_async-{{ version }}.tar.gz
-  sha256: b690c9b00a10827a6c57c005cfe9a2be796ad54bc1a008e6243be9f3fd9d2e00
+  sha256: 593691e1a8a1557ac053c601b70bf1527163a517cea3bbfdb2fadfc8a381d15e
 
 build:
   noarch: python
