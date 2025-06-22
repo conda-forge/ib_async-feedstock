@@ -22,7 +22,7 @@ requirements:
     - pip
   run:
     - python >={{ python_min }}
-    - eventkit
+    - aeventkit >=2.1.0
     - nest-asyncio
 
 test:
