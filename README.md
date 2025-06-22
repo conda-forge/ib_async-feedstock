@@ -33,7 +33,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-ib_async-green.svg)](https://anaconda.org/conda-forge/ib_async) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/ib_async.svg)](https://anaconda.org/conda-forge/ib_async) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/ib_async.svg)](https://anaconda.org/conda-forge/ib_async) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/ib_async.svg)](https://anaconda.org/conda-forge/ib_async) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-ib__async-green.svg)](https://anaconda.org/conda-forge/ib_async) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/ib_async.svg)](https://anaconda.org/conda-forge/ib_async) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/ib_async.svg)](https://anaconda.org/conda-forge/ib_async) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/ib_async.svg)](https://anaconda.org/conda-forge/ib_async) |
 
 Installing ib_async
 ===================
