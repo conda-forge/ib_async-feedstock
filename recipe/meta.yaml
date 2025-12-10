@@ -24,6 +24,7 @@ requirements:
     - python >={{ python_min }}
     - aeventkit >=2.1.0
     - nest-asyncio
+    - tzdata >=2025.2
 
 test:
   imports:
